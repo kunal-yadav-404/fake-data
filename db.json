@@ -1,0 +1,30 @@
+[
+  {
+    "subject": "Angry",
+    "marks": "150"
+  },
+  {
+    "subject": "Disgust",
+    "marks": "16"
+  },
+  {
+    "subject": "Fear",
+    "marks": "14"
+  },
+  {
+    "subject": "Happy",
+    "marks": "40"
+  },
+  {
+    "subject": "Sad",
+    "marks": "140"
+  },
+  {
+    "subject": "Surprise",
+    "marks": "6"
+  },
+  {
+    "subject": "Neutral",
+    "marks": "300"
+  }
+]
